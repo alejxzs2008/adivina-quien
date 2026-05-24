@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Adivina Quién
 
 ## ¿De qué trata el juego?
