@@ -1,0 +1,4 @@
+Jugador: alejo | Resultado: perdio | Personaje: Elena | Preguntas usadas: 10
+Jugador: alejo | Resultado: perdio | Personaje: Ramon | Preguntas usadas: 10
+Jugador: alejo | Resultado: perdio | Personaje: Maria | Preguntas usadas: 10
+Jugador: alejo | Resultado: perdio | Personaje: Ana | Preguntas usadas: 10
