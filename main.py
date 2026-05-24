@@ -56,5 +56,6 @@ def main():
         seguir_jugando = preguntar_si_jugar_de_nuevo()
 
     print("\n¡Hasta luego,", nombre_jugador + "! Gracias por jugar.")
+    
 if __name__ == "__main__":
     main()
